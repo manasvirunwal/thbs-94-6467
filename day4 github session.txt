@@ -2,3 +2,4 @@ welcome to day 4
 session on github 
 creating repo 
 branch
+editing changes in branch and then pull files and merge it
